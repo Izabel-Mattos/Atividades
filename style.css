@@ -1,0 +1,23 @@
+
+#atividades{
+    background-color: rgb(139, 237, 227);
+}
+
+h2{
+    text-align: center; /* centralizando o texto "ATIVDADES"*/
+    color: rgb(7, 61, 85); /*cor da letra*/
+
+}
+
+.botao{
+    max-width: 768px; /*largura maxima para tablet*/
+    background-color: rgb(5, 45, 145); /* Cor de fundo*/
+    margin: 10px auto; /* -> Altura | auto -> largura ( centraliza)*/
+    display: block; /* Converte tag de texto em estrutura de div */
+    color: rgb(100, 135, 151); /*cor da letra*/
+    text-decoration: none; /* texto sem formatação*/
+    font-size: 30px; /*tamanho da fonte*/
+    text-align: center;/*alinhamento do texto centralizado*/
+    padding: 20px 0; /* espaçamento interno da tag*/
+    border-radius: 10px; /* arredondamento da borda da tag*/
+}
