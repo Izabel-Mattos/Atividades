@@ -6,6 +6,8 @@
 h2{
     text-align: center; /* centralizando o texto "ATIVDADES"*/
     color: rgb(7, 61, 85); /*cor da letra*/
+    font-size: 40px; /*tamanho da fonte*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*tipo de fonte*/
 
 }
 
